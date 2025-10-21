@@ -16,7 +16,7 @@ const page = () => {
       <Projects />
       <Experience />
       <Publications />
-     // <Contact />
+      <Contact />
     </div>
   )
 }
